@@ -3,7 +3,7 @@ from phoneDB import nameToPhone
 from twilio.rest import Client
 import time
 
-# Account Credentials
+# Account Credentials (use your Twilio credentials)
 accountSID = ''
 accountToken = ''
 
