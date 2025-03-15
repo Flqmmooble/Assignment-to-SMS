@@ -1,4 +1,4 @@
-# AssignmentToSMS
+# Assignment-to-SMS
 Takes in assignment slip details from PDF and then sends them out via SMS.
 
 1. Change assigment slip fields in slipProcessor.py and sendSMS.py to your needs.
